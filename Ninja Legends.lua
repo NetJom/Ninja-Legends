@@ -1,4 +1,5 @@
-print ("Script written by NetJom, compatible with all excecutors.")
+print ("Script written by NetJom, compatible with all executors.")
+wait (2)
 print ("Teleporting...")
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").islandUnlockParts["Enchanted Island"].CFrame
 wait(.7)
