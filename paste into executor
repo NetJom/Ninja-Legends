@@ -1,2 +1,0 @@
---copy and paste the text below into your executor
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NetJom/Ninja-Legends/main/Ninja%20Legends.lua"))()
